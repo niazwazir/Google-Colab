@@ -1,0 +1,2 @@
+Img = imread('wazir.png')
+[H,W,Dim] = size(Img) %H = Height of Image
