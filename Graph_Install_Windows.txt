@@ -1,0 +1,2 @@
+conda install -c https://conda.binstar.org/t/TOKEN/j14r pydot
+conda install -c https://conda.binstar.org/t/TOKEN/j14r graphviz
