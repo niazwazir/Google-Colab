@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=b9e3J-NJ8TY
+
+How to install Tensorflow GPU Cuda Toolkit and Keras in Anaconda Windows by Mahesh Huddar
