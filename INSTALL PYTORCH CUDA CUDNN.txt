@@ -1,0 +1,2 @@
+Easy Installation of PyTorch for GPU on Windows with CUDA Toolkit, cuDNN, Anaconda Navigator
+https://www.youtube.com/watch?v=zD4y3Q_DN-k
